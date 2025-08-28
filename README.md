@@ -18,3 +18,12 @@ PATTERN 4:
 PATTERN 5:
 <img width="154" height="153" alt="{3EF051D6-1AD4-43B0-8671-E1F2834DB50C}" src="https://github.com/user-attachments/assets/cc4af238-4fb3-4663-86e0-b2d7d36b9f73" />
 <img width="110" height="106" alt="{3E069BD5-6B3A-4D9A-A260-5CE5C5B9A5BA}" src="https://github.com/user-attachments/assets/1ec8c374-a3bc-427c-9e6b-b9a2c81efb15" />
+
+PATTERN 6:
+<img width="100" height="289" alt="{B103AF7C-5BAC-4FB2-A7FC-183F371BCD22}" src="https://github.com/user-attachments/assets/fae5814f-93c7-4cc7-9070-f99886612a6c" />
+<img width="74" height="187" alt="{0F02A60B-0303-40D1-B222-6F40FEC81501}" src="https://github.com/user-attachments/assets/cb35c3e8-f62b-405e-a45a-f8815f4464db" />
+
+PATTERN 7:
+<img width="160" height="231" alt="{17DBA1E1-93A5-48C6-917D-53545AE1D1A0}" src="https://github.com/user-attachments/assets/c1776258-e9ba-4f95-8bab-3de42641612e" />
+
+PATTERN 8:
