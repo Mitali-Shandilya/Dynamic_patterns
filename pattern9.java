@@ -3,6 +3,10 @@ public class pattern9{
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         int n=sc.nextInt();
+        if (n < 3 || n % 2 == 0) {
+            System.out.println("Please enter an odd number greater than 1.");
+            return;
+        }
         for(int i=0;i<1;i++){
             for(int j=0;j<n-1;j++){
                 System.out.print("e");
@@ -40,7 +44,6 @@ public class pattern9{
 
         for(int i=0;i<1;i++){
             for(int j=0;j<n*2-1;j++){
-                
                 System.out.print(" ");
             }
             for(int j=0;j<1;j++){
