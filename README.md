@@ -27,3 +27,9 @@ PATTERN 7:
 <img width="160" height="231" alt="{17DBA1E1-93A5-48C6-917D-53545AE1D1A0}" src="https://github.com/user-attachments/assets/c1776258-e9ba-4f95-8bab-3de42641612e" />
 
 PATTERN 8:
+<img width="185" height="305" alt="image" src="https://github.com/user-attachments/assets/9ddc72b5-998a-4879-a2dd-2a538d72a078" />
+
+PATTERN 9:
+<img width="215" height="166" alt="image" src="https://github.com/user-attachments/assets/755ba5f8-6017-46f4-bd9e-947676b7edbb" />
+<img width="144" height="128" alt="{3C0DFA92-6B08-4D99-825A-B609B29A4013}" src="https://github.com/user-attachments/assets/b4d1659a-5d6f-448c-96b3-005af82eec86" />
+
