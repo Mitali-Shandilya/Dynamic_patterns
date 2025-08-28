@@ -27,7 +27,7 @@ public class pattern5{
         }
 
         for(int i=0;i<n/2+1;i++){
-            for(int j=0;j<n+2*n;j++){
+            for(int j=0;j<n+n*2;j++){
                 if(j>=i && j<=n-i-1 || j>=2*n+i && j<n+n*2-i){
                     System.out.print("e");
                 }
