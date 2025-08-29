@@ -38,3 +38,16 @@ PATTERN 10:
 <img width="60" height="45" alt="{708EFC3A-4AA5-42DC-95E4-AE86E388A771}" src="https://github.com/user-attachments/assets/3e567b8f-e8e7-4352-aec9-f79f5b4b60ca" />
 
 PATTERN 11:
+<img width="81" height="214" alt="{0ADD894C-2123-4846-BA76-E142A8C0D4A1}" src="https://github.com/user-attachments/assets/aec07d87-5bf7-4fa5-941c-7804fcd6ce6e" />
+<img width="118" height="276" alt="{EA3506C4-EA5A-4B82-9286-6E8344E62D7C}" src="https://github.com/user-attachments/assets/a30fcdb8-273b-4656-b4a1-0ca70bd04a40" />
+
+PATTERN 12:
+<img width="74" height="123" alt="{DD4D9CEB-E46D-43F8-A0BD-959349BA0BCD}" src="https://github.com/user-attachments/assets/06be8698-092d-4770-b9e5-7d85647393dd" />
+<img width="98" height="190" alt="{443E9864-A912-4365-944B-63837EB440FB}" src="https://github.com/user-attachments/assets/21d527fe-9ed7-47e6-b5fc-ef56655fe17c" />
+
+PATTERN 13:
+<img width="84" height="113" alt="{3D7B3659-1E10-418D-9A63-C54C02CCEBF3}" src="https://github.com/user-attachments/assets/aa7b6bd6-a03c-40e7-9925-a130de7d7579" />
+<img width="188" height="196" alt="{F229A06C-F830-43B6-9206-4EFF7EDC22F8}" src="https://github.com/user-attachments/assets/6671b3d1-d654-4eb8-a995-e1e3e69acfbe" />
+
+PATTERN 14:
+
