@@ -50,4 +50,9 @@ PATTERN 13:
 <img width="188" height="196" alt="{F229A06C-F830-43B6-9206-4EFF7EDC22F8}" src="https://github.com/user-attachments/assets/6671b3d1-d654-4eb8-a995-e1e3e69acfbe" />
 
 PATTERN 14:
+<img width="120" height="155" alt="{0C1F168E-C128-418A-A315-78B6B775530C}" src="https://github.com/user-attachments/assets/2f02e0d8-83e0-4ded-beee-1bf114fffcce" />
+<img width="161" height="194" alt="{B6EBC322-2E32-442D-A7B1-5384109709C1}" src="https://github.com/user-attachments/assets/5ba7bd8d-ea1a-4396-9a80-d71babef2e53" />
 
+PATTERN 15:
+<img width="133" height="215" alt="{6837940C-8BE7-4FE8-8098-DB943A6F5817}" src="https://github.com/user-attachments/assets/09b1095a-be93-44af-b08b-6d2db7214c22" />
+<img width="167" height="276" alt="{38B5B743-C230-4C07-947A-B2CAFC1D0932}" src="https://github.com/user-attachments/assets/ffc2fe5e-59de-40e2-82bd-a05cb747b643" />
